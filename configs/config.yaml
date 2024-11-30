@@ -1,0 +1,6 @@
+env: "dev"
+storage_path: "internal/storage"
+http_server:
+  address: "0.0.0.0:8082"
+  timeout: 4s
+  idle_timeout: 30s
